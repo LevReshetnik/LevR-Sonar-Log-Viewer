@@ -1,10 +1,10 @@
-# LevR-Sonar-Log-Viewer
+﻿# LevR-Sonar-Log-Viewer
 feettomet = 1.0/3.2808399; % 1.0/0.264 depstep1=uint16(0); 
 xlen=uint16(0);
 ind=uint16(0); 
 ftype=uint16(0); 
-fver=uint16(0); 
 blocksize=uint16(0); 
+block=uint16(0); 
 fdummy1=uint32(0); 
 flags=uint16(0); 
 lowlim=single(0); 
