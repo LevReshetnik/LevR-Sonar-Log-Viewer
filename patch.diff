@@ -1,0 +1,30 @@
+From 45272b453fea40f70bd93e3d8af63e9c390a3874 Mon Sep 17 00:00:00 2001
+From: LevR3012 <lev3012@gmail.com>
+Date: Mon, 30 Dec 2019 08:49:22 +0300
+Subject: [PATCH] 2 master
+
+Signed-off-by: LevR3012 <lev3012@gmail.com>
+---
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index 6d20b13..a94853d 100644
+--- a/README.md
++++ b/README.md
+@@ -1,10 +1,10 @@
+-# LevR-Sonar-Log-Viewer
++﻿# LevR-Sonar-Log-Viewer
+ feettomet = 1.0/3.2808399; % 1.0/0.264 depstep1=uint16(0); 
+ xlen=uint16(0);
+ ind=uint16(0); 
+ ftype=uint16(0); 
+-fver=uint16(0); 
+ blocksize=uint16(0); 
++block=uint16(0); 
+ fdummy1=uint32(0); 
+ flags=uint16(0); 
+ lowlim=single(0); 
+-- 
+2.21.0.windows.1
+
